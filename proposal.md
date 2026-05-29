@@ -14,10 +14,6 @@
 
 Topic 12: Consumer Trust, Privacy, and the Ethics of AI-Native 6G Services
 
-## Repository Link
-
-https://github.com/SEPEHRIOUS/3180-greenwave-networks
-
 ## Topic Justification
 
 The overall parts of AI-Native 6G networks gives us an introduction to many challenges that will relate to the consumer trust, privacy and for the ethics of AI native. The newer technology evolved as a highly intelligent way so it is able to collect big amounts of users that are able to show the telemetry and the behavioral data to support applications such as smart cities, autonomous transportation, and mobile healthcare systems. With these potentials we have many ways where we can improve efficiency and network performance but we can also cause problems like data misuse, algorithmic bias, and loss of user privacy. Our group project on the consumers will show the academic literature on the parts on privacy-preserving frameworks, trust models, and ethical AI governance within 6G infrastructures. The project will also identify the research that's getting done now in the present and also showing any future ways that we can be able to balance intelligent network optimization with responsible and trustworthy data strategies.
@@ -33,3 +29,7 @@ The overall parts of AI-Native 6G networks gives us an introduction to many chal
 | Proposed future approach | Carline Gu | Propose the ideas of how to build a solution to be able to improve the privacy protection and ethical AI authority. |
 | Conclusion | Entire team | The final phrasing of the whole concepts of our findings and research wrap up. Summarizing the major findings and discussing the important parts of the topic to continue into the future. |
 | References | Entire team | Proper AAAI formatting, citations and proofreading |
+
+## GitHub Repository URL
+
+https://github.com/SEPEHRIOUS/3180-greenwave-networks
