@@ -25,10 +25,10 @@ The overall parts of AI-Native 6G networks gives us an introduction to many chal
 | Introduction and background on AI-Native 6G networks | Manraj Rai | Introducing and explaining the background of the 6G networks, AI-native infrastructure, and the motivation behind AI integration in future wireless systems. Identify the key concepts here |
 | Literature Review #1: Privacy Risks in 6G networks | Sepehr Sheikholeslami | Research and summarize the privacy risks in data collection, location tracking, and vulnerabilities in AI-driven wireless environments |
 | Literature Review #2: Consumer Trust and Ethical Concerns | Carline Gu | Research and analyze the papers which are about consumer trust, algorithmic bias, transparency and the whole summarization of having responsible AI-native 6G systems data concerns |
-| Research discussions | Entire team | Compare and review the research papers we came up with by identifying limitations to the present solutions and also discussing any unresolved problems and challenges that can affect our research. |
+  | Research discussions | Manraj Rai<br />Sepehr Sheikholeslami<br />Carline Gu | Compare and review the research papers we came up with by identifying limitations to the present solutions and also discussing any unresolved problems and challenges that can affect our research. |
 | Proposed future approach | Carline Gu | Propose the ideas of how to build a solution to be able to improve the privacy protection and ethical AI authority. |
-| Conclusion | Entire team | The final phrasing of the whole concepts of our findings and research wrap up. Summarizing the major findings and discussing the important parts of the topic to continue into the future. |
-| References | Entire team | Proper AAAI formatting, citations and proofreading |
+| Conclusion | Manraj Rai<br />Sepehr Sheikholeslami<br />Carline Gu | The final phrasing of the whole concepts of our findings and research wrap up. Summarizing the major findings and discussing the important parts of the topic to continue into the future. |
+| References | Manraj Rai<br />Sepehr Sheikholeslami<br />Carline Gu | Proper AAAI formatting, citations and proofreading |
 
 ## GitHub Repository URL
 
