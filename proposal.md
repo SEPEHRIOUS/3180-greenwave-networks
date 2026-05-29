@@ -10,26 +10,26 @@
 | Sepehr Sheikholeslami | SEPEHRIOUS |
 | Carline Gu | carlineGu |
 
-## GitHub Repository
+## Selected Research Topic
+
+Topic 12: Consumer Trust, Privacy, and the Ethics of AI-Native 6G Services
+
+## Repository Link
 
 https://github.com/SEPEHRIOUS/3180-greenwave-networks
 
-## Selected Research Topic
-
-**Topic 12 — Consumer Trust, Privacy, and the Ethics of AI-Native 6G Services**
-
 ## Topic Justification
 
-AI-native 6G networks introduce significant challenges related to consumer trust, privacy, and ethical AI governance. As this technology evolves, it will collect large amounts of user telemetry and behavioral data to support applications such as smart cities, autonomous transportation, and mobile healthcare systems. While these capabilities can improve network efficiency and performance, they also raise serious concerns around data misuse, algorithmic bias, and loss of user privacy. Our project will survey academic literature on privacy-preserving frameworks, trust models, and ethical AI governance within 6G infrastructures. The goal is to identify current research addressing these issues and to explore future approaches that balance intelligent network optimization with responsible and trustworthy data strategies.
+The overall parts of AI-Native 6G networks gives us an introduction to many challenges that will relate to the consumer trust, privacy and for the ethics of AI native. The newer technology evolved as a highly intelligent way so it is able to collect big amounts of users that are able to show the telemetry and the behavioral data to support applications such as smart cities, autonomous transportation, and mobile healthcare systems. With these potentials we have many ways where we can improve efficiency and network performance but we can also cause problems like data misuse, algorithmic bias, and loss of user privacy. Our group project on the consumers will show the academic literature on the parts on privacy-preserving frameworks, trust models, and ethical AI governance within 6G infrastructures. The project will also identify the research that's getting done now in the present and also showing any future ways that we can be able to balance intelligent network optimization with responsible and trustworthy data strategies.
 
-## Proposed Section Ownership
+## Proposed Section Ownership Table
 
 | Paper Section | Primary Owner | Main Tasks |
 |---------------|---------------|------------|
-| Introduction and Background on AI-Native 6G Networks | Manraj Rai | Introduce and explain the background of 6G networks, AI-native infrastructure, and the motivation behind AI integration in future wireless systems; identify key concepts |
-| Literature Review 1: Privacy Risks in 6G Networks | Sepehr Sheikholeslami | Research and summarize privacy risks in data collection, location tracking, and vulnerabilities in AI-driven wireless environments |
-| Literature Review 2: Consumer Trust and Ethical Concerns | Carline Gu | Research and analyze papers on consumer trust, algorithmic bias, transparency, and responsible AI-native 6G data governance |
-| Research Discussions | Entire team | Compare and review research papers, identify limitations of present solutions, and discuss unresolved challenges |
-| Proposed Future Approach | Carline Gu | Propose ideas for improving privacy protection and ethical AI governance |
-| Conclusion | Entire team | Summarize major findings and discuss important directions for future work |
-| References | Entire team | Ensure proper AAAI formatting, citations, and proofreading |
+| Introduction and background on AI-Native 6G networks | Manraj Rai | Introducing and explaining the background of the 6G networks, AI-native infrastructure, and the motivation behind AI integration in future wireless systems. Identify the key concepts here |
+| Literature Review #1: Privacy Risks in 6G networks | Sepehr Sheikholeslami | Research and summarize the privacy risks in data collection, location tracking, and vulnerabilities in AI-driven wireless environments |
+| Literature Review #2: Consumer Trust and Ethical Concerns | Carline Gu | Research and analyze the papers which are about consumer trust, algorithmic bias, transparency and the whole summarization of having responsible AI-native 6G systems data concerns |
+| Research discussions | Entire team | Compare and review the research papers we came up with by identifying limitations to the present solutions and also discussing any unresolved problems and challenges that can affect our research. |
+| Proposed future approach | Carline Gu | Propose the ideas of how to build a solution to be able to improve the privacy protection and ethical AI authority. |
+| Conclusion | Entire team | The final phrasing of the whole concepts of our findings and research wrap up. Summarizing the major findings and discussing the important parts of the topic to continue into the future. |
+| References | Entire team | Proper AAAI formatting, citations and proofreading |
