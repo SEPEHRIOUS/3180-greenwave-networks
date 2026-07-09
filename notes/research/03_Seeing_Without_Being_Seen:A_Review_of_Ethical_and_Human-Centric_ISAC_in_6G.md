@@ -7,7 +7,7 @@
 
 ## Relevance to Our Survey: 
 1. Relevent topic:<br>
+Ethical
 
 2. Detail explaination of relevance:<br>
-
-3. Critical comment:<br>
+This paper is highly relevant to our issue because it points out that “ethical invisibility” is a concern problem for 6G environments. This is because in 6G environments, infrastructural is invisibility, interactional is invisibility (do not require an explicit user action) and the inferential is also invisibility. As a result, individuals may become subjects of ethically relevant observation without fully perceiving.
