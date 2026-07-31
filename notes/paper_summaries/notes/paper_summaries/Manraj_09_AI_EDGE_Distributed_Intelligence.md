@@ -1,5 +1,4 @@
-9. Citation: Format preview
-Ju, P., Li, C., Liang, Y., & Shroff, N. (2024). AI‐EDGE: An NSF AI institute for future edge networks and distributed intelligence. The AI Magazine, 45(1), 29-34. https://doi.org/10.1002/aaai.12145
+9. Citation: Ju, P., Li, C., Liang, Y., & Shroff, N. (2024). AI‐EDGE: An NSF AI institute for future edge networks and distributed intelligence. The AI Magazine, 45(1), 29-34. https://doi.org/10.1002/aaai.12145
 
 	This paper introduces us the AI-EDGE Institute, this is an inquiry plan that describes the progression of the intelligent edge networks for 6G. The author explains the two research paths its going through which are the AI for network and the Networks for AI. The Ai for Networks is where the AI is used to enhance and automate future wireless networks, and the Networks for AI is where the communication for the networks is created to able to competently support supplied AI products. Also giving us a plain field of where the future of 6G systems will be able to trust on the merged learning with having a spread between running the networks for creating the self-augmenting, self-curative, energy-efficient, and privacy-aware. Also giving us a plan of the significance of the academic world, commerce, and the authority in advancing AI-native networking machineries.
 
