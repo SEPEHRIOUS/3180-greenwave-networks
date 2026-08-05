@@ -1,0 +1,9 @@
+8. Citation: Taghia, J., Moradi, F., Larsson, H., Lan, X., Orucu, A., Ebrahimi, M., & Johnsson, A. (2024). Congruent learning for self-regulated federated learning in 6G. IEEE Transactions on Machine Learning in Communications and Networking, 2, 129-149. https://doi.org/10.1109/TMLCN.2023.3347680
+
+	This paper gives us the explanation of the Congruent Federated Learning a structured associated learning framework designed for AI-native 6G networks. The author gives a explanation of how the future 6G systems will be able to supply machines that will be able to understand the automation of the network management while protecting user privacy. This learning often always would require the meta parameter which is weak to overtraining. The projected approach of the CFL gives us the introduction of the consistent activation serves that control local model training, and able to cut down the overtraining without having any more data. With the results of it, the improvement of learning performance, greater challenge, and lower structure difficulty followed. 
+
+## Relevance 
+The paper supports our Introduction and Background sections by exhibiting how they federated learning can be able to authorize the AI-native 6G networks to perform delivered machine learning while protecting the user data. Gives us an outlook how the federated learning can be able to be key to enabling technology for intelligent network automation and supply optimisation, making it an important factor of future wireless communication systems.
+
+## Critical Comment
+Even though the paper gives us the outline of the progresses of the knowledge competence and seclusion protection, the paper ultimately focuses on mainly the technical performances. Gives us not that much information on the bigger issues like we have mentioned consumer trust, ethical AI governance, and transparency which rare important to the development of AI-native 6G networks. 
