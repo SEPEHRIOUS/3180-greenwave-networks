@@ -1,9 +1,0 @@
-6.  Citation: Dogra, A., Jha, R. K., & Jain, S. (2021). A survey on beyond 5G network with the advent of 6G: Architecture and emerging technologies. IEEE Access, 9, 67512-67547. https://doi.org/10.1109/ACCESS.2020.3031234
-
-	This paper presents a thorough survey of the development from beyond 5G to 6G wireless networks. The author explains how the restrictions of the current 5G systems and how 6G can seek to support the privileged data scales, ultra-low invisibility, substantial device connectivity, and rational network processing. The paper gives us the revision of the projected plan of the 6G architecture in which it argues about the key ideas about enabling technologies, including artificial intelligence, THz announcement, smart dazzling sides, authority computation, and unified perception. This also recognizes the key examination of encounters and future routes that essentially need to be focused on before 6G can be extensively implemented.
-
-## Relevance to Our Survey
-This paper gives the footing for the Introduction and Background sections of our survey. It explained to us why 6G was able to be essential over the existing 5G abilities and describes the main tools that will enable AI-native wireless networks. The arguments of the AI-driven network administration, intelligent transmission, and promising 6G architecture aids the commitment of our explanation of how future wireless networks will become more independent and versatile.
-
-## Critical Comment
-Even though the survey paper gives a wide summary of 6G technologies and architecture but also aims in centering on specialised extends. The main points that we have mentioned of. Consumer trust, ethical AI, and privacy protection are recognized as imminent encounters of which aren’t classified in order. Which would leave chances for additional examining in these crucial fields.

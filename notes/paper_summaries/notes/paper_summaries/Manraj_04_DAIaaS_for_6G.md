@@ -1,9 +1,0 @@
-4. Citation: Janbi, N., Katib, I., Albeshri, A., & Mehmood, R. (2020). Distributed artificial intelligence-as-a-service (DAIaaS) for smarter IoE and 6G environments. Sensors (Basel, Switzerland), 20(20), 5796. https://doi.org/10.3390/s20205796
-
-	This paper introduces the main concepts of the Distributed Artificial Intelligence as a Service for the internet of everything and for the 6G’s environment. This summary shows us that we can be able to rely on the AI training proposal of work, the centralized cloud computing, reducing the latency, and putting the optimization of the resource application. The authors give a deep-down assessment of how AI can be able to direct a case study of the operation of airfields and the smart localities. The reports suggest us that AI can substantially be able to reduce the amount of delay, network traffic, energy utilization, and functional prices while supporting intelligent services in future 6G networks.
-
-## Relevance to Our Survey
-This paper showed us the relevancy to our background section to explain that distributed AI will become a core piece of AI-native 6G networks. It shows us that the how cloud, fog, and edge computing work together to able to aid the intelligent functions while improving network efficiency. Gives us the idea also of how AI-native 6G networks will aid smart cities, Internet of Everything benefits, and other large scale intelligent worlds.
-
-## Critical Comment
-The paper focuses on the primary on the systems which are on about the system architecture and service deployment. Even though it gives us the idea of the demonstration of the DAIAAS framework with improvements of the network and performance efficiency, it gives us limited debate of consumer privacy, ethical AI governance, and user trust. A part in which that would become important down the road as we explore more individual and ecological data statistics

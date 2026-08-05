@@ -1,9 +1,0 @@
-5. Citation:Nurakhov, Y., Aibagarov, S., Kassymbek, N., Mukhanbet, A., Kumalakov, B., & Imankulov, T. (2026). The impact of generative AI on 6G network architecture and service. Electronics (Basel), 15(7), 1345. https://doi.org/10.3390/electronics15071345
-
-	This paper gives us the examination of the generative artificial intelligence that can and is projected to able to turnaround the architecture and services of future 6G mobile networks. The author of this paper gives us an explanation of how GenAI can improve the network automation, intelligent decision-making, supply executives, and service optimisation by producing adaptive results centered on real-time network situation. The source gives us a debate on how we can be able to combine the generative AI into 6G architecture that can be able to can augment network efficiency, support intellectual functions, and facilitate more adaptive and independent communication services. Also giving us the information to give us the roadblock’s which can involve with the generative AI in future wireless systems.
-
-## Relevance to Our Survey
-This paper gave a relevance support to the Introduction and Background sections because it shows that AI can be very crucial in the sections of AI-native 6G networks. It gives explanation that how AI can be able can improve network automation, intelligent decision-making, supply executives, and service optimisation by producing adaptive results centered on real-time network situation. Giving us also emphasizes of the growth of AI can be crucial for the future of wireless communication systems.
-
-## Critical Comment
-The paper mainly gives us the less points on privacy, ethical concerns, and consumer trust. Providing many benefits, research must be examined with more AI authority, clarity, and statistics protection being more absorbed into AI-native 6G architectures
