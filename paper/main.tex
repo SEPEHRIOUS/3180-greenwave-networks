@@ -48,7 +48,28 @@
 %%% AUTHOR : Sepehr Sheikholeslami (@SEPEHRIOUS)
 %%% -------------------------------------------------------
 \section{Literature Review: Privacy Risks in 6G Networks}
-% TODO (Sepehr): filled in Commit 2.
+Privacy in 6G networks has become one of the most heavily researched areas as the
+network architecture moves toward AI-native operation. Nguyen et al.~\cite{nguyen2021}
+conducted a comprehensive review of emerging technologies for secure communication in
+6G networks and developed a hierarchical taxonomy of security challenges spanning
+physical-layer attacks, network-level threats, device vulnerabilities, and
+application-specific risks. This layered framing shows that privacy risk in 6G is not a
+single problem but originates at different levels of the network, each requiring
+different mitigations.
+
+A systematic review synthesizing peer-reviewed studies on privacy preservation in 6G
+networks~\cite{personaldata2026} connects technical privacy-enhancing technologies to
+regulatory compliance frameworks such as GDPR. This links the engineering side of
+privacy to the governance side, where cross-jurisdiction regulatory fragmentation
+complicates data governance for multi-domain 6G systems.
+
+A recurring theme in this literature is that AI itself introduces new privacy risks
+rather than only solving them. Techniques promoted as privacy-preserving, such as
+federated learning, keep raw data on the device but remain vulnerable to attacks such as
+model inversion, in which shared model updates are reverse-engineered to infer
+information about the original data. This demonstrates a central tension in our survey:
+the same AI-native features marketed as privacy-preserving can simultaneously open new
+privacy attack surfaces.
 %%% END SECTION: Literature Review - Privacy Risks
 
 %%% -------------------------------------------------------
