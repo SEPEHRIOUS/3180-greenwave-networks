@@ -40,6 +40,74 @@ Several AI technologies make this possible. Machine learning can analyze network
 
 Even with these advantages, AI-native 6G still faces several challenges. The large amount of data collected by future networks raises concerns about privacy and user control. AI decision-making can also create problems related to transparency, fairness, and accountability. In addition, protecting AI models from cyberattacks and ensuring reliable network performance remain important research areas. Solving these challenges will be necessary to build secure, trustworthy, and responsible AI-native 6G networks.
 
+\section{Literature Review: Privacy Risks in 6G Networks}
+Privacy in 6G networks has become one of the most heavily researched areas as the
+network architecture moves toward AI-native operation. Porambage et
+al.~\cite{porambage2021} survey how security and privacy will impact envisioned 6G
+systems, examining the challenges introduced by different 6G technologies and the
+potential solutions across areas such as AI and machine-learning security,
+physical-layer security, and privacy preservation. Nguyen et al.~\cite{nguyen2021}
+complement this roadmap with a systematic overview organized by network layer,
+covering the physical, connection, and service layers. Two lessons from their survey
+are especially relevant: 6G does not merely inherit vulnerabilities from previous
+generations, and its new radio technologies introduce entirely new threat vectors,
+such as the exposed location of radio stripes in ultra-massive MIMO systems at
+Terahertz bands and attacks against the network's pervasive intelligence itself.
+Together, these surveys frame 6G privacy not as a single problem but as a set of
+challenges distributed across the technologies and layers that make up the network,
+each requiring its own class of solution.
+
+A key theme across this literature is that the architecture enabling AI-native
+operation also expands the attack surface. As distributed artificial intelligence is
+embedded throughout the network to support services such as smart environments and
+the Internet of Everything~\cite{janbi2020}, more points in the system collect,
+process, and exchange data, increasing the number of places where privacy can be
+compromised. This concern is sharpest at the network edge: Mao et
+al.~\cite{mao2023} survey security and privacy on the 6G network edge specifically,
+where computation and data processing move closer to users and outside traditionally
+hardened core infrastructure. Sandeepa et al.~\cite{sandeepa2022} similarly identify
+new privacy challenges specific to B5G/6G and map out open research directions,
+reinforcing that many of these challenges remain unsolved rather than merely
+unimplemented.
+
+This tension is especially visible in federated learning, which is often presented
+as a privacy-preserving technique. Federated learning improves privacy by allowing
+devices to train AI models locally and share only model updates instead of raw
+data~\cite{taghia2024}. However, this same mechanism introduces new challenges
+around the reliability and security of those shared updates in a self-regulated 6G
+environment, meaning the technique reduces one form of privacy risk while
+introducing new questions about how the learning process itself can be trusted and
+secured. Overall, the literature suggests that AI in 6G must be treated as both a
+means of protecting privacy and a new source of privacy risk.
+
+\section{Discussion}
+% Sepehr Sheikholeslami (@SEPEHRIOUS) -- privacy/trust bridge paragraph.
+% Manraj and Carline: add your paragraphs to this section as well.
+The privacy literature and the consumer trust literature approach the same underlying
+problem from opposite directions, and comparing them exposes a gap that neither fully
+addresses. The privacy-focused work, such as Porambage et al.'s
+roadmap~\cite{porambage2021} and Nguyen et al.'s layered survey~\cite{nguyen2021}, is
+strongest at locating where risks technically originate across 6G technologies, but it
+tends to treat the user as a subject to be protected rather than an active participant.
+The trust-focused work reverses this emphasis: it centers user perception, skepticism,
+and acceptance, but rarely connects those concerns back to specific technical
+mechanisms. Work on trust anchor technologies~\cite{veith2023} begins to bridge this
+divide by asking which technical components a trustworthy 6G network can be anchored
+on, but it remains focused on infrastructure rather than user-facing control. What is
+still missing is a mechanism through which users can exercise meaningful, granular
+control over the specific AI-driven functions processing their data. This gap directly
+motivates the proposed approach discussed in the following section.
+
+\section{Conclusion}
+% Sepehr Sheikholeslami (@SEPEHRIOUS) -- privacy-perspective paragraph.
+% Manraj and Carline: add your paragraphs to this section as well.
+From the privacy perspective specifically, this survey shows that risk in AI-native 6G
+is layered rather than monolithic, and that the AI techniques often promoted as privacy
+solutions, such as federated learning, simultaneously introduce new attack surfaces of
+their own. Future research should prioritize governance mechanisms that operate at the
+same level as the AI functions themselves, rather than relying solely on
+application-layer regulation designed for an earlier generation of networks.
+
 \bibliographystyle{aaai2026}
 \bibliography{aaai2026}
 
